@@ -20,7 +20,7 @@ pipeline {
  }
  post {
   success {
-    sendNotificationToCDDCall projectName: 'NatWest', scope: 'BUSINESS_APPLICATION', businessApplicationName: 'NatWest Biometric Payment'
+    sendNotificationToCDDCall projectName: 'NatWest', scope: 'BUSINESS_APPLICATION', businessApplicationName: 'NatWest Bankline Mobile'
   }
  }
 }
