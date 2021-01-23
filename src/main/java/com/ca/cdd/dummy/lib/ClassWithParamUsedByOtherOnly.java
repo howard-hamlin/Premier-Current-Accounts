@@ -11,7 +11,7 @@ public class ClassWithParamUsedByOtherOnly extends Library {
     public String getName() {
         return NAME;
     }
-}
+} 
 
 // YDaQI
 // inKTY
